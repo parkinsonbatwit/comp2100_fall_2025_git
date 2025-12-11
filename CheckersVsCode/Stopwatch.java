@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * 
- * @author imagi
+ * @author Tyler Sarno
  *
  * @version 1.0 2025-12-10 Initial implementation
  *
